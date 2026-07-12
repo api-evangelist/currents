@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://currentsapi.services/
 common:
+  - type: DomainSecurity
+    url: security/currents-domain-security.yml
   - type: Website
     url: https://currentsapi.services/
   - type: PublicAPIsListing
