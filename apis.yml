@@ -39,7 +39,6 @@ apis:
   - name: Currents
     description: "Real-time and historical global news with multilingual support"
     humanURL: https://currentsapi.services/
-    baseURL: https://currentsapi.services/
     tags:
       - News
     properties:
